@@ -1,0 +1,2 @@
+-- Procedimiento de carga de la capa Bronze.
+-- Implementa aquí bronze.load_bronze una vez definidas las tablas de destino.

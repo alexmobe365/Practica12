@@ -1,0 +1,2 @@
+-- Procedimiento de carga de la capa Silver.
+-- Implementa aquí silver.load_silver para transformar los datos de Bronze.

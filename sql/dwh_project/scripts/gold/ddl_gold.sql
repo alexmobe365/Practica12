@@ -1,0 +1,2 @@
+-- Vistas de la capa Gold para el modelo en estrella.
+-- Define aquí las dimensiones y la tabla de hechos/vistas analíticas.

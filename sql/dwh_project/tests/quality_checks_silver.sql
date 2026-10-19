@@ -1,0 +1,2 @@
+-- Controles de calidad de la capa Silver.
+-- Ejemplos: valores nulos, duplicados, formatos y reglas de negocio.

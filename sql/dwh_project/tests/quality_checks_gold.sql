@@ -1,0 +1,2 @@
+-- Controles de calidad de la capa Gold.
+-- Ejemplos: integridad referencial y consistencia de métricas.

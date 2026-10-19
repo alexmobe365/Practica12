@@ -1,0 +1,2 @@
+-- DDL de las tablas de la capa Silver.
+-- Añade aquí las tablas limpias y estandarizadas.
